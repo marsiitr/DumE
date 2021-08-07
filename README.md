@@ -56,7 +56,7 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 
 ## Team Members 
 
-Abhay Pratap Singh<br/>
+[Abhay Pratap Singh] (https://github.com/DarthEkLen) <br/>
 Ayush Mishra<br/>
 Shivshankar Shukla<br/>
 Siddhant Shekhar<br/>
