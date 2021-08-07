@@ -42,6 +42,18 @@ image processing and the various platforms which can be used for designing and s
 
 ***
 
+## Cost Structure
+| *Components*                    |*Cost(INR.)*|
+|-----------------------------------|------------|
+| MATLAB                            | 62,000     |
+| Simulink                          | 94,000        |
+| Model Predictive Control Toolbox  | 62,000        |
+| Simscape                          | 62,000        |
+| Robotic System Toolbox            | 54,000       |
+| Computer Vision Toolbox           | 39,000       |
+| Optimization Toolbox              | 36,400      |
+| *Total*                           | *4,09,400*  |
+
 ## Applications
 Dum-E is a perfect robotic arm for performing simple tasks in factory settings. It can also be used in household for any kind of pick up and place tasks.
 ***
