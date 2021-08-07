@@ -3,7 +3,7 @@ Open Projects 2021
 ***
 
 <p align="center">
-  <img width="560" height="400" src="https://github.com/rodion0917/Random/blob/main/Dum-E%20in%20Action%20-%20Green%20Object.png" alt="DumE">
+  <img width="560" height="400" src="https://github.com/rodion0917/Random/blob/main/Dum-E%20in%20Action%20-%20Green%20Object.png">
   <i>DumE</i>
 </p>
 
