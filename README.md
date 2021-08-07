@@ -57,9 +57,9 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 ## Team Members 
 
 [Abhay Pratap Singh](https://github.com/DarthEkLen) <br/>
-Ayush Mishra (https://github.com/rodion0917) <br/>
-Shivshankar Shukla (https://github.com/SHIV-anna)<br/>
-Siddhant Shekhar (https://github.com/SiddhantShekhar) <br/>
+[Ayush Mishra](https://github.com/rodion0917) <br/>
+[Shivshankar Shukla](https://github.com/SHIV-anna) <br/>
+[Siddhant Shekhar](https://github.com/SiddhantShekhar) <br/>
 ***
 
 
