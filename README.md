@@ -58,8 +58,6 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 
 Abhay Pratap Singh
 Ayush Mishra
-Shivshankar Shukla
-Siddhant Shekhar
 ***
 
 
