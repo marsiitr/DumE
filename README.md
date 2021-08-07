@@ -53,18 +53,20 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 ***
 
 
-## Mentors
-
-Rishika Chandra
-***
-
 
 ## Team Members 
 
-Shivshankar Shukla
-Siddhant Shekhar
 Abhay Pratap Singh
 Ayush Mishra
+Shivshankar Shukla
+Siddhant Shekhar
+***
+
+
+
+## Mentors
+
+Rishika Chandra
 ***
 
 
