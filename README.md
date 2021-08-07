@@ -67,11 +67,10 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 ***
 
 ## References
-[Importing CAD modelin Matlab](https://in.mathworks.com/help/physmod/sm/cad-import.html?s_tid=CRUX_topnav) <br/>
-https://in.mathworks.com/help/physmod/sm/ug/import-a-cad-assembly-model.html <br/>
-https://in.mathworks.com/help/reinforcement-learning/ug/create-predefined-simulink-environments.html <br/>
-https://in.mathworks.com/help/robotics/ref/inversekinematics-system-object.html <br/>
-https://in.mathworks.com/help/robotics/ug/trace-end-effector-ik-simulink.html?searchHighlight=define%20the%20trajectory&s_tid=srchtitle <br/>
-https://in.mathworks.com/help/robotics/ug/2d-inverse-kinematics-example.html <br/>
-https://in.mathworks.com/help/robotics/ug/build-a-robot-step-by-step.html <br/>
-https://in.mathworks.com/help/robotics/ug/pick-and-place-workflow-using-stateflow.html
+[Importing CAD model in Matlab](https://in.mathworks.com/help/physmod/sm/cad-import.html?s_tid=CRUX_topnav) <br/>
+[Creating predefined Simulink environment](https://in.mathworks.com/help/reinforcement-learning/ug/create-predefined-simulink-environments.html) <br/>
+[Inverse Kinematics](https://in.mathworks.com/help/robotics/ref/inversekinematics-system-object.html) <br/>
+[Tracing End Effector using Inverse Kinematics](https://in.mathworks.com/help/robotics/ug/trace-end-effector-ik-simulink.html?searchHighlight=define%20the%20trajectory&s_tid=srchtitle) <br/>
+[2-D Inverse Kinematic](https://in.mathworks.com/help/robotics/ug/2d-inverse-kinematics-example.html) <br/>
+[Building Robotic Manipulator through rigidBodyTree](https://in.mathworks.com/help/robotics/ug/build-a-robot-step-by-step.html) <br/>
+[Pick and Place Workflow using Stateflow](https://in.mathworks.com/help/robotics/ug/pick-and-place-workflow-using-stateflow.html)
