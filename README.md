@@ -8,14 +8,12 @@ Open Projects 2021
   <i align="center">DumE</i>
 </p>
 
-
 ***
-<p align="justify">
+
 ## Abstract
-<p>Dum-E is a pick-up and place, robotic arm. Equipped with image processing and computer vision,it can 
+Dum-E is a pick-up and place, robotic arm. Equipped with image processing and computer vision,it can 
 detect and classify objects on the basis of their color or shape. Currently, it can operate in static
 environments, that is where obstacles and the object are not moving.
-  </p>
 ***
 
 ## Motivation
@@ -69,7 +67,7 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 ***
 
 ## References
-https://in.mathworks.com/help/physmod/sm/cad-import.html?s_tid=CRUX_topnav <br/>
+[Importing CAD modelin Matlab](https://in.mathworks.com/help/physmod/sm/cad-import.html?s_tid=CRUX_topnav) <br/>
 https://in.mathworks.com/help/physmod/sm/ug/import-a-cad-assembly-model.html <br/>
 https://in.mathworks.com/help/reinforcement-learning/ug/create-predefined-simulink-environments.html <br/>
 https://in.mathworks.com/help/robotics/ref/inversekinematics-system-object.html <br/>
