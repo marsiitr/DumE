@@ -31,6 +31,7 @@ image processing and the various platforms which can be used for designing and s
 <p align="center">
   <img width="560" height="200" src="https://github.com/rodion0917/Random/blob/main/Placing%20the%20object%20-%20Workflow.png">
 </p>
+
 ***
 
 ## Applications
