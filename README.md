@@ -22,9 +22,15 @@ image processing and the various platforms which can be used for designing and s
 ***
 
 ## Workflow
-![Workflow](https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png)
-![Picking up the object - Workflow](https://github.com/rodion0917/Random/blob/main/Picking%20up%20the%20object%20-%20Workflow.png)
-![Placing the object - Workflow](https://github.com/rodion0917/Random/blob/main/Placing%20the%20object%20-%20Workflow.png)
+<p align="center">
+  <img width="560" height="400" src="https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png">
+</p>
+<p align="center">
+  <img width="560" height="400" src="https://github.com/rodion0917/Random/blob/main/Picking%20up%20the%20object%20-%20Workflow.png">
+</p>
+<p align="center">
+  <img width="560" height="400" src="https://github.com/rodion0917/Random/blob/main/Placing%20the%20object%20-%20Workflow.png">
+</p>
 ***
 
 ## Applications
