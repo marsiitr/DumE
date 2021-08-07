@@ -56,7 +56,7 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 
 ## Team Members 
 
-Abhay Pratap Singh
+Abhay Pratap Singh__
 Ayush Mishra
 ***
 
