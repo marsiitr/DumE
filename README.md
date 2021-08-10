@@ -8,10 +8,12 @@
 </p>
 ***
 
-## Abstract
-Dum-E is a pick-up and place, robotic arm. Equipped with image processing and computer vision,it can 
+<p align="justify">
+<h2>Abstract</h2>
+<p>Dum-E is a pick-up and place, robotic arm. Equipped with image processing and computer vision,it can 
 detect and classify objects on the basis of their color or shape. Currently, it can operate in static
-environments, that is where obstacles and the object are not moving.
+environments, that is where obstacles and the object are not moving.</p>
+</p>
 ***
 
 ## Motivation
