@@ -27,19 +27,18 @@ image processing and the various platforms which can be used for designing and s
 
 <p align="center">
   <img src="https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png" "Workflow">
-  
   <i>Workflow</i>
 </p>
 
+
 <p align="center">
   <img src="https://github.com/rodion0917/Random/blob/main/Picking%20up%20the%20object%20-%20Workflow.png">
-  
   <i>Picking up the Object</i>
 </p>
 
+
 <p align="center">
   <img src="https://github.com/rodion0917/Random/blob/main/Placing%20the%20object%20-%20Workflow.png">
-  
   <i>Placing the object</i>
 </p>
 
