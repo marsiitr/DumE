@@ -1,5 +1,5 @@
 # DumE
-## weOpen Projects 2021
+## Open Projects 2021
 ***
 
 <p align="center">
@@ -24,20 +24,22 @@ image processing and the various platforms which can be used for designing and s
 ***
 
 ## Workflow
-<p align="center">
-  <img width="700" height="600" src="https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png" "Workflow">
-</p>
-<i>Workflow</i>
+
 
 <p align="center">
-  <img width="850" height="200" src="https://github.com/rodion0917/Random/blob/main/Picking%20up%20the%20object%20-%20Workflow.png">
+  <img src="https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png" "Workflow">
+  <i>Workflow</i>
 </p>
-<i>Picking up the object</i>
 
 <p align="center">
-  <img width="560" height="200" src="https://github.com/rodion0917/Random/blob/main/Placing%20the%20object%20-%20Workflow.png">
+  <img src="https://github.com/rodion0917/Random/blob/main/Picking%20up%20the%20object%20-%20Workflow.png">
+  <i>Picking up the Object</i>
 </p>
-<i>Placiing the object</i>
+
+<p align="center">
+  <img src="https://github.com/rodion0917/Random/blob/main/Placing%20the%20object%20-%20Workflow.png">
+  <i>Placing the object</i>
+</p>
 
 ***
 
@@ -70,14 +72,14 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 ***
 
 ## Team Members 
-1.[Abhay Pratap Singh](https://github.com/DarthEkLen) <br/>
-2.[Ayush Mishra](https://github.com/rodion0917) <br/>
-3.[Shivshankar Shukla](https://github.com/SHIV-anna) <br/>
-4.[Siddhant Shekhar](https://github.com/SiddhantShekhar) <br/>
+1. [Abhay Pratap Singh](https://github.com/DarthEkLen) <br/>
+2. [Ayush Mishra](https://github.com/rodion0917) <br/>
+3. [Shivshankar Shukla](https://github.com/SHIV-anna) <br/>
+4. [Siddhant Shekhar](https://github.com/SiddhantShekhar) <br/>
 ***
 
 ## Mentors
-[Rishika Chandra](https://github.com/chandrarishika14)
+  [Rishika Chandra](https://github.com/chandrarishika14)
 ***
 
 ## References
