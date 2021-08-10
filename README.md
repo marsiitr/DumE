@@ -42,6 +42,9 @@ image processing and the various platforms which can be used for designing and s
 
 ***
 
+## Simulation
+We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MATLAB function helperCreateObstaclesKINOVA, we create collision meshes and 
+
 ## Cost Structure
 | *Components*                    |*Cost(INR.)*|
 |-----------------------------------|------------|
