@@ -1,5 +1,4 @@
 # Dum-E Software Aspects
-## Open Projects 2021
 
 ***
 
@@ -21,18 +20,18 @@ The above function finds a joint configuration that achieves the specified end-e
 
 ### Object Detection and Classification using Computer Vision
 Haar Cascade classifiers are trained on a few hundred sample of images that contain the positive and negative image to identify target object from given images.
-The *vision.CascadeObjectDetector* System object detects objects in images by sliding a window over the image. The detector then uses a cascade classifier to decide whether the window contains the object of interest. 
-The cascade classifier consists of stages, where each stage is an ensemble of weak learners. The weak learners are simple classifiers called *decision stumps*. Each stage is trained using a technique called boosting. *Boosting* provides the ability to train a highly accurate classifier by taking a weighted average of the decisions made by the weak learners.
-Each stage of the classifier labels the region defined by the current location of the sliding window as either positive or negative. *Positive* indicates that an object was found and *negative* indicates no objects were found. If the label is negative, the classification of this region is complete, and the detector slides the window to the next location. If the label is positive, the classifier passes the region to the next stage. The detector reports an object found at the current window location when the final stage classifies the region as positive.
-Cascade classifier training requires a set of positive samples and a set of negative images. You must provide a set of positive images with regions of interest specified to be used as positive samples. You can use the *Image Labeler* to label objects of interest with bounding boxes. The Image Labeler outputs a table to use for positive samples. You also must provide a set of negative images from which the function generates negative samples automatically. To achieve acceptable detector accuracy, set the number of stages, feature type, and other function parameters.
+The *vision.CascadeObjectDetector*Â System object detects objects in images by sliding a window over the image. The detector then uses a cascade classifier to decide whether the window contains the object of interest.Â 
+The cascade classifier consists of stages, where each stage is an ensemble of weak learners. The weak learners are simple classifiers calledÂ *decision stumps*. Each stage is trained using a technique called boosting.Â *Boosting*Â provides the ability to train a highly accurate classifier by taking a weighted average of the decisions made by the weak learners.
+Each stage of the classifier labels the region defined by the current location of the sliding window as either positive or negative.Â *Positive*Â indicates that an object was found andÂ *negative*Â indicates no objects were found. If the label is negative, the classification of this region is complete, and the detector slides the window to the next location. If the label is positive, the classifier passes the region to the next stage. The detector reports an object found at the current window location when the final stage classifies the region as positive.
+Cascade classifier training requires a set of positive samples and a set of negative images. You must provide a set of positive images with regions of interest specified to be used as positive samples. You can use the *Image Labeler*Â to label objects of interest with bounding boxes. The Image Labeler outputs a table to use for positive samples. You also must provide a set of negative images from which the function generates negative samples automatically. To achieve acceptable detector accuracy, set the number of stages, feature type, and other function parameters.
 
 #### Code Explanation 
-1. Load the positive samples data from a MAT file. The file contains a table specifying bounding boxes for several object categories. The table is exported from the Image Labeler app. 
+1. Load the positive samples data from a MAT file. The file contains a table specifying bounding boxes for several object categories. The table is exported from theÂ Image LabelerÂ app. 
 ``` 
 load('stopSignsAndCars.mat');
 ```
 
-2. Specify the folder for negative images and create an imageDatastore object containing negative images. 
+2. Specify the folder for negative images and create anÂ imageDatastoreÂ object containing negative images. 
 ```
 negativeFolder = fullfile(matlabroot, 'toolbox', 'vision', 'visiondata', ... 'nonStopSigns');
 ```
