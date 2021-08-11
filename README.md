@@ -55,7 +55,7 @@ We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MA
 ## Cost Structure
 | *Components*                                                                                                             |*Cost(INR.)*|
 |--------------------------------------------------------------------------------------------------------------------------|------------|
-| [MATLAB] (https://in.mathworks.com/pricing-licensing.html)                                                                  | 62,000     |
+| [MATLAB](https://in.mathworks.com/pricing-licensing.html)                                                                  | 62,000     |
 | Simulink (https://in.mathworks.com/pricing-licensing.html?prodco                                                         | 94,000     |
 | Model Predictive Control Toolbox (https://in.mathworks.com/pricing-licensing.html?prodcode=MP&&intendeduse=undefined)    | 62,000     |
 | Simscape (https://in.mathworks.com/pricing-licensing.html?prodcode=SS)                                                   | 62,000     |
