@@ -48,6 +48,10 @@ image processing and the various platforms which can be used for designing and s
 </p>
 
 ***
+
+## Mechanical Aspects
+Our project was to build a robotic arm only in the MATLAB framework. Unfortunately, though an arrangement of links and joints can be made in MATLAB using *rigidBodyTree*, the complete body has to be made in mechanically oriented frameworks like SOLIDWORKS. So, we imported the robotic manipulator KINOVA GEN3 three-dimensional assembly created with SolidWorks CAD software. The SLDASM file of the model were downloaded from Kinova Robotics.
+
 ## Software Aspects 
 The software aspects in Dum-E are two-fold, namely the control theory and image processing. 
 ### Control Theory for Dum-E 
