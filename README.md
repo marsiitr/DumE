@@ -65,7 +65,8 @@ We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MA
 | *Total*                                                                                                                   | *4,09,400* |
 
 ## Applications
-Dum-E is a perfect robotic arm for performing simple tasks in factory settings. It can also be used in household for any kind of pick up and place tasks.
+Dum-E is a perfect robotic arm for performing simple tasks in factory settings. The robotic arm can be used for multiple industrial applications, from welding, material handling, and thermal spraying, to painting and drilling. The robotic technology also provides human-like dexterity in a variety of environments. These may include servicing nuclear power stations, welding and repairing pipelines on the ocean floor, remote servicing of utility power lines, or cleaning up radioactive and other hazardous wastes.Another example of where automated robotic arms are used is in the auto-manufacturing industry. Robots have been a boom to the auto-manufacturing industry. Most industrial robots work in auto assembly lines, putting cars together. Robots can do a lot of this work more efficiently than human beings because they are so fast and precise. They also have significantly reduced worker injuries, including repetitive stress injuries and more significant mishaps that can do major harm. Additionally, the robots turn out a more consistent product at a significantly cheaper cost than can humans.
+It can also be used in household for any kind of pick up and place tasks.
 ***
 
 ## Limitations 
