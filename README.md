@@ -16,6 +16,7 @@
 detect and classify objects on the basis of their color or shape. Currently, it can operate in static
 environments, that is where obstacles and the object are not moving.</p>
 </p>
+
 ***
 
 ## Motivation
