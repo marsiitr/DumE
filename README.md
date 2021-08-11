@@ -31,7 +31,7 @@ image processing and the various platforms which can be used for designing and s
 
 
 <p align="center">
-  <img src="https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png" alt = "Workflow">
+  <img src="https://github.com/rodion0917/Random/blob/main/Work-flow%20chart.png">
   <i>Workflow</i>
 </p>
 
