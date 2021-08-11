@@ -55,6 +55,9 @@ After deciding the mechanical aspects of Dum-E, such as DOFs, end-effector works
 ### Object Detection and Classification using Computer Vision
 Before using IP, we were only able to perform pick up and place function on a very narrow range of similar shaped and sized objects. Also, we couldn't command Dum-E to place one object at a certain place and then other one at a different position. So to overcome this hurdle, we used Haar Cascade Object Detector, particularly due to the various tools provided by MATLAB which makes this task relatively easy. The Haar Cascade algorithm needs a modestly sized dataset of images to train the Cascade Object detector. This is done using an inbuilt *train* function in MATLAB. After that, through *Boosting* the accuracy and precision of dection and classification is increased. Finally, we were able to make Dum-E perform pick up and place function on differently colored objects and also to place them at different locations.
 
+[In Depth analysis of aforementioned algorithms.](https://github.com/rodion0917/DumE/blob/main/src/README.md)
+***
+
 ## Simulation
 We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MATLAB function helperCreateObstaclesKINOVA, we create collision meshes and imported work desks and robotic manipulator to the environment.
 The cad Model, [Kinova Gen 3](https://www.kinovarobotics.com/en/products/gen3-robot) is imported directly to be used in the simulation.
@@ -123,11 +126,23 @@ Another example where Dum-E can be used is in the auto-manufacturing industry. R
 ***
 
 ## Limitations 
-Currently, Dum-E can perform only in a static environment, that is to say, though you could use different shapes and size of obstacles, the obstacles themselves must not be moving. 
+Generally, environments are classified under two categories. <br/>
+* Static Environments - Obstacles could be of different shapes and size but they themselves must not move,
+* Dynamic Environments - Obstacles can be move in computationally deterministic paths,
+Currently, Dum-E can perform only in a static environment but not in a dynamic environment. 
 ***
 
 ## Future Improvements
 In future, we would work on making Dum-E function in a dynamic environment. Also, we try to enable Dum-E as a whole and not just its end-effector to move in dynamic environment. 
+To achieve our goal, we would have to create dynamic environment by using *isMovingObst* function along with *helperCreateObstacles* function.
+```
+isMovingObst = true;
+```
+```
+helperCreateObstaclesKINOVA;
+```
+After this, we will have to create a non-linear model predictive controller to design the collision-free trajectory for the end-effector. This is the place, where we are currently stuck. <br/>
+Our approach to solve this problem will be to first understant the mathematical function which is at the heart of the matter, that is the *cost function*. And after that, we would learn about the Model Predictive Control Toolbox of MATLAB, which will let us design the collision-free trajectory.
 ***
 
 ## Team Members 
