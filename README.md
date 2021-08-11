@@ -62,7 +62,7 @@ To perform the task, Environment is created to place shelves, balls and blocks f
 The final video for the simulation is in the Images and Video Folder. the simulations are then run to identify the object and place it to<br>
 the desired position. The Instructions for the same are below.<br>
 
-# Instructions
+### Instructions
 Import robot
  ```
  robot = loadrobot('kinovaGen3', 'DataFormat', 'column');
