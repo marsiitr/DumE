@@ -128,12 +128,12 @@ Another example where Dum-E can be used is in the auto-manufacturing industry. R
 ## Limitations 
 Generally, environments are classified under two categories. <br/>
 * Static Environments - Obstacles could be of different shapes and size but they themselves must not move,
-* Dynamic Environments - Obstacles can be move in computationally deterministic paths,
+* Dynamic Environments - Obstacles can be move in computationally deterministic paths. <br/>
 Currently, Dum-E can perform only in a static environment but not in a dynamic environment. 
 ***
 
 ## Future Improvements
-In future, we would work on making Dum-E function in a dynamic environment. Also, we try to enable Dum-E as a whole and not just its end-effector to move in dynamic environment. 
+In future, we will work on making Dum-E function in a dynamic environment. Also, we will try to enable Dum-E as a whole and not just its end-effector to move in a dynamic environment. 
 To achieve our goal, we would have to create dynamic environment by using *isMovingObst* function along with *helperCreateObstacles* function.
 ```
 isMovingObst = true;
