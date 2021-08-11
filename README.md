@@ -48,6 +48,12 @@ image processing and the various platforms which can be used for designing and s
 </p>
 
 ***
+## Software Aspects 
+The software aspects in Dum-E are two-fold, namely the control theory and image processing. 
+### Control Theory for Dum-E 
+After deciding the mechanical aspects of Dum-E, such as DOFs, end-effector workspace and limits for weight lifting, we were left with the control aspects of our project. We tried to figure out how the robotic arm would take an object from a known position and place it at another known position. Fortunately, MATLAB provides a number of useful functions which makes it easy for the user to design the inverse kinematic solver for robotic arm. 
+### Object Detection and Classification through Computer Vision
+Before using IP, we were only able to perform pick up and place function on a very narrow range of similar shaped and sized objects. Also, we couldn't command Dum-E to place one object at a certain place and then other one at a different position. So to overcome this hurdle, we used Haar Cascade Object Detector, particularly due to the various tools provided by MATLAB which makes this task relatively easy. The Haar Cascade algorithm needs a modestly sized dataset of images to train the Cascade Object detector. This is done using an inbuilt *train* function in MATLAB. After that, through *Boosting* the accuracy and precision of dection and classification is increased. Finally, we were able to make Dum-E perform pick up and place function on differently colored objects and also to place them at different locations.
 
 ## Simulation
 We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MATLAB function helperCreateObstaclesKINOVA, we create collision meshes and 
