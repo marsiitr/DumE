@@ -1,11 +1,11 @@
-# DumE
+# Dum-E
 ## Open Projects 2021
 
 ***
 
 <p align="center">
   <img src="https://github.com/rodion0917/Random/blob/main/Dum-E%20in%20Action%20-%20Green%20Object.png">
-  <i>DumE</i>
+  <i>Dum-E</i>
 </p>
 
 ***
@@ -65,13 +65,12 @@ We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MA
 | *Total*                                                                                                                   | *4,09,400* |
 
 ## Applications
-DumE can be used for multiple industrial applications, from welding, material handling, and thermal spraying, to painting and drilling. With some modest alterations, the end effector of DumE can achieve human-like dexterity in a variety of environments. These may include servicing nuclear power stations, welding and repairing pipelines on the ocean floor, remote servicing of utility power lines, or cleaning up radioactive and other hazardous wastes. Of course, we will have to use different type of end effectors for different applications. Tasks which require heavy-lifting will demand suction grippers, whereas more intricate tasks can be accomplished only by using 2-finger or 3-finger electric gripper.
-Another example where DumE can be used is in the auto-manufacturing industry. Robots have been a boom to the auto-manufacturing industry. Most industrial robots work in auto assembly lines, putting cars together.DumE can do a lot of this work more efficiently than human beings because of its speed and relative precision. It also will significantly reduce worker injuries, including repetitive stress injuries and more significant mishaps that can do major harm. Additionally, the robot will turn out a more consistent product at a significantly cheaper cost than can humans.
+Dum-E can be used for multiple industrial applications, from welding, material handling, and thermal spraying, to painting and drilling. With some modest alterations, the end effector of Dum-E can achieve human-like dexterity in a variety of environments. These may include servicing nuclear power stations, welding and repairing pipelines on the ocean floor, remote servicing of utility power lines, or cleaning up radioactive and other hazardous wastes. Of course, we will have to use different type of end effectors for different applications. Tasks which require heavy-lifting will demand suction grippers, whereas more intricate tasks can be accomplished only by using 2-finger or 3-finger electric gripper.
+Another example where Dum-E can be used is in the auto-manufacturing industry. Robots have been a boom to the auto-manufacturing industry. Most industrial robots work in auto assembly lines, putting cars together.Dum-E can do a lot of this work more efficiently than human beings because of its speed and relative precision. It also will significantly reduce worker injuries, including repetitive stress injuries and more significant mishaps that can do major harm. Additionally, the robot will turn out a more consistent product at a significantly cheaper cost than can humans.
 ***
 
 ## Limitations 
- 
-Presently Dum-E can't function in a dynamic environment. Dum-E also has only a modest reach, which restricts it to lift only small, light objects.
+
 ***
 
 ## Future Improvements
@@ -90,7 +89,7 @@ In future, we would work on making Dum-E function in a dynamic environment. Also
 ***
 
 ## References
-[Importing CAD model in Matlab](https://in.mathworks.com/help/physmod/sm/cad-import.html?s_tid=CRUX_topnav) <br/>
+* [Importing CAD model in MATLAB](https://in.mathworks.com/help/physmod/sm/cad-import.html?s_tid=CRUX_topnav) <br/>
 [Creating predefined Simulink environment](https://in.mathworks.com/help/reinforcement-learning/ug/create-predefined-simulink-environments.html) <br/>
 [Inverse Kinematics](https://in.mathworks.com/help/robotics/ref/inversekinematics-system-object.html) <br/>
 [Tracing End Effector using Inverse Kinematics](https://in.mathworks.com/help/robotics/ug/trace-end-effector-ik-simulink.html?searchHighlight=define%20the%20trajectory&s_tid=srchtitle) <br/>
