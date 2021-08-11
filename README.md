@@ -53,16 +53,16 @@ image processing and the various platforms which can be used for designing and s
 We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MATLAB function helperCreateObstaclesKINOVA, we create collision meshes and 
 
 ## Cost Structure
-| *Components*                                                                                                             |*Cost(INR.)*|
-|--------------------------------------------------------------------------------------------------------------------------|------------|
-| [MATLAB](https://in.mathworks.com/pricing-licensing.html)                                                                  | 62,000     |
-| Simulink (https://in.mathworks.com/pricing-licensing.html?prodco                                                         | 94,000     |
-| Model Predictive Control Toolbox (https://in.mathworks.com/pricing-licensing.html?prodcode=MP&&intendeduse=undefined)    | 62,000     |
-| Simscape (https://in.mathworks.com/pricing-licensing.html?prodcode=SS)                                                   | 62,000     |
-| Robotic System Toolbox (https://in.mathworks.com/pricing-licensing.html?prodc                                            | 54,000     |
-| Computer Vision Toolbox (https://in.mathworks.com/pricing-licensing.html?prodcode=VP)                                    | 39,000     |
-| Optimization Toolbox (https://in.mathworks.com/pricing-licensing.html?prodcode=OP)                                       | 36,400     |
-| *Total*                                                                                                                  | *4,09,400* |
+| *Components*                                                                                                              |*Cost(INR.)*|
+|---------------------------------------------------------------------------------------------------------------------------|------------|
+| [MATLAB](https://in.mathworks.com/pricing-licensing.html)                                                                 | 62,000     |
+| [Simulink](https://in.mathworks.com/pricing-licensing.html?prodcode=SL)                                                   | 94,000     |
+| [Model Predictive Control Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=MP&&intendeduse=undefined)    | 62,000     |
+| [Simscape](https://in.mathworks.com/pricing-licensing.html?prodcode=SS)                                                   | 62,000     |
+| [Robotic System Toolbox](https://in.mathworks.com/pricing-licensing.html?prodc                                            | 54,000     |
+| [Computer Vision Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=VP)                                    | 39,000     |
+| [Optimization Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=OP)                                       | 36,400     |
+| *Total*                                                                                                                   | *4,09,400* |
 
 ## Applications
 Dum-E is a perfect robotic arm for performing simple tasks in factory settings. It can also be used in household for any kind of pick up and place tasks.
