@@ -123,7 +123,7 @@ Another example where Dum-E can be used is in the auto-manufacturing industry. R
 ***
 
 ## Limitations 
-
+Currently, Dum-E can perform only in a static environment, that is to say, though you could use different shapes and size of obstacles, the obstacles themselves must not be moving. 
 ***
 
 ## Future Improvements
