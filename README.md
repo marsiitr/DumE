@@ -59,7 +59,7 @@ We had imported KINOVA GEN3 robotic manipulator from solidworks. By using the MA
 | [Simulink](https://in.mathworks.com/pricing-licensing.html?prodcode=SL)                                                   | 94,000     |
 | [Model Predictive Control Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=MP&&intendeduse=undefined)    | 62,000     |
 | [Simscape](https://in.mathworks.com/pricing-licensing.html?prodcode=SS)                                                   | 62,000     |
-| [Robotic System Toolbox](https://in.mathworks.com/pricing-licensing.html?prodc                                            | 54,000     |
+| [Robotic System Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=RO)                                     | 54,000     |
 | [Computer Vision Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=VP)                                    | 39,000     |
 | [Optimization Toolbox](https://in.mathworks.com/pricing-licensing.html?prodcode=OP)                                       | 36,400     |
 | *Total*                                                                                                                   | *4,09,400* |
